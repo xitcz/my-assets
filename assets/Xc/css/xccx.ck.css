@@ -1,0 +1,4 @@
+@media(max-width:1199px){html .Xc_home_article-list{display:grid;grid-template-columns:repeat(1,1fr);-webkit-column-gap:20px;column-gap:20px;}}
+.Xc_home_article-list{display:grid;grid-template-columns:repeat(2,1fr);-webkit-column-gap:20px;}
+.Xc_home_article-si.default .thumbnail{width:190px;height:130px;}
+.Xc_home_article-si .meta{display:flex;align-items:center;margin-top:auto;color:var(--minor);font-size:12px;}
